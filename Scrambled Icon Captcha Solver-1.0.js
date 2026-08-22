@@ -16,6 +16,7 @@
 // @match       https://feyorra.site/member/shortlinks
 // @match       https://earn-trump.com/member/faucet*
 // @match       https://earn-trump.com/member/shortlinks*
+// @match       https://litefaucets.com/*
 // @author      Rubystance
 // @license     MIT
 // @version     1.0
